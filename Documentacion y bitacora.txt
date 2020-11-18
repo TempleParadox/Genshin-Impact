@@ -1,2 +1,8 @@
 Documentacion y bitacora 
 
+Cabecera: 
+- Logo transparente del juego 
+- definiciones del menu 
+
+
+
