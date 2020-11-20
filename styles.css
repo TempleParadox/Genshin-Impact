@@ -1,3 +1,21 @@
+:root {
+  --color1: #f0ece3;
+  --color2: #cbaf87;
+  --color3: #7e8a97;
+  --color4: #30475e;
+}
 body {
-  background-color: aqua;
+  background-color: var(--color1);
+}
+
+.navbar {
+  background-color: var(--color4);
+}
+
+#navbarDropdown {
+  color: var(--color1);
+}
+
+.texto1 {
+  background-color: red;
 }
