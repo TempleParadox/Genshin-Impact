@@ -3,6 +3,7 @@
   --color2: #cbaf87;
   --color3: #7e8a97;
   --color4: #30475e;
+  --color5: #8C4338;
 }
 body {
   background-color: var(--color1);
@@ -16,6 +17,15 @@ body {
   color: var(--color1);
 }
 
-.texto1 {
-  background-color: red;
+.dropdown-menu {
+  background-color: var(--color1);
+}
+
+.dropdown-item {
+  background-color: var(--color1);
+  color:  var(--color4)
+}
+
+a :-ms-keyboard-active{
+  color: yellow;
 }
