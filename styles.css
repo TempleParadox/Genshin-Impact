@@ -8,7 +8,8 @@
 }
 
 body {
-  background-color: var(--color1);
+  /* background-color: var(--color1); */
+  /* background-image: url("./images/background/barbara1.png"); */
 }
 
 .navbar {
@@ -55,3 +56,8 @@ body {
   height: 100%;
   width: 100%;
 }
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
